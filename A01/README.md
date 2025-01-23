@@ -1,6 +1,5 @@
 # Assignment 1
-
-<img width="749" alt="Screenshot 2025-01-22 at 11 53 00 PM" src="https://github.com/user-attachments/assets/6bfe8bcf-ecfe-46ac-b3a3-5966bdd412ea" />
+<img width="749" alt="Screenshot 2025-01-22 at 11 55 19 PM" src="https://github.com/user-attachments/assets/524910d0-6fa7-483b-8059-6cc868fa0296" />
 
 
 ![surrealImage_1](https://github.com/user-attachments/assets/e2a2cd11-d401-4b3f-bb71-8a440e3a591a)
