@@ -1,0 +1,1 @@
+prompt = "trees growing in front of a totally white background. pomegranate red. matte"
