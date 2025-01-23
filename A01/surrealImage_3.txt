@@ -1,0 +1,1 @@
+prompt = "red smoke billowing out of smokestacks made of cigarettes.smoke starts thin and expands into the upper frame, filling it. white background"
