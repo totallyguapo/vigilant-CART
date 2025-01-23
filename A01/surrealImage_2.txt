@@ -1,0 +1,1 @@
+prompt = "several glossy dark red balloons organized in the shape of a pair of human lungs. white background."
