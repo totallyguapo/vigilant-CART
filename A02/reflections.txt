@@ -16,7 +16,9 @@ One must have a mind of  at
 To regard the frost and the  p
 Of the pine-trees crusted with  golden
 
-Although the last line is interesting, the first two don’t mean much of anything. The model is reduced to low guessing fragment tokens whose purpose is to connect to a new idea, rather than predicting a token representing a meaningful word, or idea. 
+Although the last line is interesting, the first two don’t mean much of anything. The model is 
+reduced to low guessing fragment tokens whose purpose is to connect to a new idea, rather than 
+predicting a token representing a meaningful word, or idea. 
 ———————————————————
 To train a model to find the nouns within a poem is challenging because the model does not have a 
 method to classify symbolic abstractions like nouns—and words can act as various grammatical 
