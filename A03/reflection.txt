@@ -1,0 +1,9 @@
+AI iz a bad mathematician! 
+
+Even with a low temperature and a low top-P, generative AI is still sampling from a (relatively) limited vector space of tokens. As the math problems get more complicated, the vector space of possible tokens also increases, and so the probability of the LLM model selecting a token that's wrong increases over time. In math, there is no threshold for ambiguity: a slightly varied response will simply be wrong--this is in contrast with text, which has many different passable strings that could satisfy a user. 
+
+
+if you ask a LLM to compute the powers of six, by around the fifth power, it starts getting the math wrong. That shows that the sample space is sufficiently full of the correct answer in its token vector space for the first four iterations. But by the fifth iteration, the percentage of different tokens with non-zero probability have overwhelmed the vector space of tokens, and the computer outputs the wrong answer. In theory, every prompt might have multiple unique tokens with non-zero probability--so there might be a 0.1 percent probability for '5' after prompting 2+2, and your LLM would seem dumber than a fifth grader 0.1% of the time!
+
+
+

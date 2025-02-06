@@ -1,0 +1,19 @@
+
+
+(13,4)
+Iteration 3: 28561 * 28561 = 815730721
+Wow, I messed up again. I couldn't even parse my own output. Math is hard, okay?
+Iteration 4: 815730721 * 815730721 = 665416609183179841
+GPT-4o says: 666,115,200,000,000,641..  That's wrong!
+I'm losing my confidence.
+
+(7,4)
+Iteration 4: 5764801 * 5764801 = 33232930569601
+GPT-4o says: 33177600000001.  That's wrong!
+Ugh, I'm starting to feel defeated.
+
+
+(6,5)
+Iteration 5: 2821109907456 * 2821109907456 = 7958661109946400884391936
+GPT-4o says: 7952559681000000000000000. That's wrong!
+Ugh, I'm starting to feel defeated.\
